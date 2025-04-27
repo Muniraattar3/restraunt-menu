@@ -63,7 +63,7 @@ function payOrder() {
 
 // Function 5: thankyouFnc()
 function thankyouFnc() {
-    //alert('Thank you for eating with us today!');
+    alert('Thank you for eating with us today!');
 }
 
 // Calling everything in sequence
